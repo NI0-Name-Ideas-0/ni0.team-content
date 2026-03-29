@@ -1,0 +1,18 @@
+{
+  "sections": [
+    {
+      "title": "General",
+      "links": [
+        {
+          "label": "Repository",
+          "url": "https://github.com/orgs/NI0-Name-Ideas-0/repositories",
+          "iconDark": "https://github.githubassets.com/favicons/favicon-dark.png"
+        },
+        {
+          "label": "Jira Board",
+          "url": "https://ni0.atlassian.net/jira/software/projects/OR/boards/35"
+        }
+      ]
+    }
+  ]
+}

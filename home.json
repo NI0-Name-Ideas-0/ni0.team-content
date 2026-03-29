@@ -21,16 +21,5 @@
     "Abhängigkeitsmanagement zwischen Aufgaben",
     "Automatische Arbeitsplanung und Zuweisung",
     "Fortschrittsverfolgung und Berichterstellung"
-  ],
-  "externalLinks": [
-    {
-      "label": "Repository",
-      "url": "https://github.com/orgs/NI0-Name-Ideas-0/repositories",
-      "iconDark": "https://github.githubassets.com/favicons/favicon-dark.png"
-    },
-    {
-      "label": "ClickUp",
-      "url": "https://app.clickup.com/90121535866/v/s/90126615524"
-    }
   ]
 }
