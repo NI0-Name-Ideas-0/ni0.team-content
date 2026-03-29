@@ -2,20 +2,6 @@
   "projectName": "ChronoScope",
   "projectStatus": "Anforderungsanalyse",
   "tagline": "Ein webbasiertes System zur strukturierten Planung und Verwaltung von Aufgaben innerhalb von Organisationen. Aufgaben können priorisiert, zugewiesen und automatisch geplant werden.",
-  "slides": [
-    {
-      "title": "Produktvorschau 1",
-      "description": "Screenshot oder Mockup kommt hier"
-    },
-    {
-      "title": "Produktvorschau 2",
-      "description": "Screenshot oder Mockup kommt hier"
-    },
-    {
-      "title": "Produktvorschau 3",
-      "description": "Screenshot oder Mockup kommt hier"
-    }
-  ],
   "features": [
     "Aufgabenverwaltung mit Prioritäten und Deadlines",
     "Abhängigkeitsmanagement zwischen Aufgaben",
