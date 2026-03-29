@@ -11,6 +11,10 @@
         {
           "label": "Jira Board",
           "url": "https://ni0.atlassian.net/jira/software/projects/OR/boards/35"
+        },
+        {
+          "label": "Prototyp",
+          "url": "https://chronoscope.ni0.team/"
         }
       ]
     },
