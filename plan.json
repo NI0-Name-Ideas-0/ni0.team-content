@@ -22,7 +22,7 @@
       "title": "Anforderungsanalyse",
       "date": "",
       "description": "Glossar erstellen, Lastenheft ausarbeiten, Systemfunktionen definieren, Use-Cases identifizieren, Review vorbereiten",
-      "status": "in-progress"
+      "status": "done"
     },
     {
       "title": "Vorprojekt & Softwarestudie",
@@ -34,13 +34,13 @@
       "title": "Qualitäts- und Dokumentationskonzept",
       "date": "",
       "description": "Coding-Conventions definieren, Dokumentationskonzept erstellen, Tools für Qualitätssicherung festlegen, Dokumentationsstandards festlegen",
-      "status": "pending"
+      "status": "done"
     },
     {
       "title": "Pflichtenheft & finale Anforderungen",
       "date": "",
       "description": "Lastenheft konkretisieren, Pflichtenheft erstellen, Glossar aktualisieren, Funktionsumfang finalisieren",
-      "status": "pending"
+      "status": "in-progress"
     },
     {
       "title": "Systemdesign & Modellierung",
