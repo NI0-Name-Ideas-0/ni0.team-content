@@ -28,7 +28,7 @@
       "title": "Vorprojekt & Softwarestudie",
       "date": "",
       "description": "Prototyp planen, Architekturideen entwickeln, Designbeschreibung erstellen, Beispielimplementierung umsetzen, Demo präsentieren",
-      "status": "in-progress"
+      "status": "done"
     },
     {
       "title": "Qualitäts- und Dokumentationskonzept",
@@ -40,37 +40,37 @@
       "title": "Pflichtenheft & finale Anforderungen",
       "date": "",
       "description": "Lastenheft konkretisieren, Pflichtenheft erstellen, Glossar aktualisieren, Funktionsumfang finalisieren",
-      "status": "in-progress"
+      "status": "done"
     },
     {
       "title": "Systemdesign & Modellierung",
       "date": "",
       "description": "UML-Klassendiagramme erstellen, Architektur definieren, dynamisches Modell entwickeln, Designbeschreibung erstellen",
-      "status": "pending"
+      "status": "done"
     },
     {
       "title": "Testplanung",
       "date": "",
       "description": "Testkonzept definieren, Komponententests planen, Systemtests planen, Testdaten definieren, Testorganisation festlegen",
-      "status": "pending"
+      "status": "done"
     },
     {
       "title": "Implementierungsplanung",
       "date": "",
       "description": "User Stories definieren, Implementierungsplan erstellen, Pair-Programming Teams festlegen, Releases planen",
-      "status": "pending"
+      "status": "in-progress"
     },
     {
       "title": "Iterative Implementierung",
       "date": "",
       "description": "Stories implementieren, Code integrieren, wöchentliche Releases erstellen, Dokumentation aktualisieren, Tests durchführen",
-      "status": "pending"
+      "status": "in-progress"
     },
     {
       "title": "Code Review & Qualitätssicherung",
       "date": "",
       "description": "Codequalität prüfen, Coding-Conventions kontrollieren, Testabdeckung überprüfen, Dokumentation validieren",
-      "status": "pending"
+      "status": "in-progress"
     },
     {
       "title": "Projektabschluss & Endabnahme",
