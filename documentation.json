@@ -1,11 +1,21 @@
 {
   "sections": [
     {
-      "title": "Kategorie 6",
+      "title": "Aufgabenblatt 1",
       "links": [
         {
-          "label": "Test Dokument Aufgabenblatt 5",
-          "url": "https://content.ni0.team/Aufgabenblatt5.pdf",
+          "label": "Projektzielsetzung & Risikoanalyse",
+          "url": "https://content.ni0.team/documents/Abgabe KW11.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        }
+      ]
+    },
+    {
+      "title": "Aufgabenblatt 2",
+      "links": [
+        {
+          "label": "Recherchebericht",
+          "url": "https://content.ni0.team/documents/Recherchebericht.pdf",
           "icon": "https://content.ni0.team/icons/pdf.png"
         }
       ]
