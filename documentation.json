@@ -84,6 +84,16 @@
           "icon": "https://content.ni0.team/icons/pdf.png"
         }
       ]
+    },
+    {
+      "title": "Aufgabenblatt 6",
+      "links": [
+        {
+          "label": "Protokoll für manuelle Systemtests",
+          "url": "https://ni0-name-ideas-0.github.io/ChronoScope-tests/tests.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        }
+      ]
     }
   ]
 }
