@@ -19,6 +19,71 @@
           "icon": "https://content.ni0.team/icons/pdf.png"
         }
       ]
+    },
+    {
+      "title": "Aufgabenblatt 3",
+      "links": [
+        {
+          "label": "Designbeschreibung",
+          "url": "https://content.ni0.team/documents/Designbeschreibung.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        },
+        {
+          "label": "Glossar",
+          "url": "https://content.ni0.team/documents/Glossar.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        },
+        {
+          "label": "Lastenheft",
+          "url": "https://content.ni0.team/documents/Lastenheft.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        },
+        {
+          "label": "Style- and Documentation Guide",
+          "url": "https://content.ni0.team/documents/Style- and Documentation Guide.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        }
+      ]
+    },
+    {
+      "title": "Aufgabenblatt 4",
+      "links": [
+        {
+          "label": "Glossar",
+          "url": "https://content.ni0.team/documents/Glossar-1.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        },
+        {
+          "label": "Pflichtenheft",
+          "url": "https://content.ni0.team/documents/Pflichtenheft.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        }
+      ]
+    },
+    {
+      "title": "Aufgabenblatt 5",
+      "links": [
+        {
+          "label": "Testkonzept",
+          "url": "https://content.ni0.team/documents/Testkonzept.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        },
+        {
+          "label": "Design-Entwurf",
+          "url": "https://content.ni0.team/documents/Design-Entwurf.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        },
+        {
+          "label": "Glossar",
+          "url": "https://content.ni0.team/documents/Glossar-2.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        },
+        {
+          "label": "Pflichtenheft",
+          "url": "https://content.ni0.team/documents/Pflichtenheft-1.pdf",
+          "icon": "https://content.ni0.team/icons/pdf.png"
+        }
+      ]
     }
   ]
 }
