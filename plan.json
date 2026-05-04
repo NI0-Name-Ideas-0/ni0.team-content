@@ -58,7 +58,7 @@
       "title": "Implementierungsplanung",
       "date": "",
       "description": "User Stories definieren, Implementierungsplan erstellen, Pair-Programming Teams festlegen, Releases planen",
-      "status": "in-progress"
+      "status": "done"
     },
     {
       "title": "Iterative Implementierung",
@@ -70,7 +70,7 @@
       "title": "Code Review & Qualitätssicherung",
       "date": "",
       "description": "Codequalität prüfen, Coding-Conventions kontrollieren, Testabdeckung überprüfen, Dokumentation validieren",
-      "status": "in-progress"
+      "status": "done"
     },
     {
       "title": "Projektabschluss & Endabnahme",
